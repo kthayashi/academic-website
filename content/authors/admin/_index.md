@@ -6,7 +6,7 @@ title: Kenji T. Hayashi
 superuser: true
 
 # Role/position/tagline
-role: he/him/his <br> Ph.D. Student
+role: he/him/his<br>Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,13 +16,14 @@ organizations:
   url: https://www.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Dr. Nathan Kraft's [Plant Community Ecology Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) in the [Department of Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/) at [UCLA](https://www.ucla.edu/). My research interests are broadly in plant community ecology and biogeography.
+bio: I am a Ph.D. candidate in Dr. Nathan Kraft's [Plant Community Ecology Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) in the [Department of Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/) at [UCLA](https://www.ucla.edu/). My research interests are broadly in plant community ecology and biogeography.
 
 # Interests to show in About widget
 interests:
-- Plant ecology
 - Community ecology
 - Biogeography
+- Data science
+- STEM education
 
 # Education to show in About widget
 education:
@@ -72,4 +73,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student in Dr. Nathan Kraft's [Plant Community Ecology Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) in the [Department of Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/) at [UCLA](https://www.ucla.edu/). My research interests are broadly in plant community ecology and biogeography. My current research aims to disentangle the complex interactions between abiotic and biotic factors that shape species' distributions and ecological communities across spatial scales, with California grasslands as a model system. I am also passionate about data science, especially using R, and evidence-based STEM teaching.
+I am a Ph.D. candidate in Dr. Nathan Kraft's [Plant Community Ecology Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) in the [Department of Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/) at [UCLA](https://www.ucla.edu/). My research interests are broadly in plant community ecology and biogeography. My dissertation research aims to understand how species interactions in spatially variable environments shape plant species distributions and coexistence across spatial scales, using a California grassland as a model system. I am also passionate about data science (especially using R) and evidence-based STEM teaching.
