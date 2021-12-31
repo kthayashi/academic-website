@@ -58,7 +58,7 @@ social:
   icon_pack: fab
   link: https://gitlab.com/kthayashi
 
-# Link to a PDF of your resume/CV.
+# Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
@@ -69,7 +69,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a Ph.D. student in Dr. Nathan Kraft's [Plant Community Ecology Lab](https://sites.lifesci.ucla.edu/eeb-kraft/) in the [Department of Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/) at [UCLA](https://www.ucla.edu/). My research interests are broadly in plant community ecology and biogeography. My current research aims to disentangle the complex interactions between abiotic and biotic factors that shape species' distributions and ecological communities across spatial scales, with California grasslands as a model system. I am also passionate about data science, especially using R, and evidence-based STEM teaching.
